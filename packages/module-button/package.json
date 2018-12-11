@@ -1,0 +1,12 @@
+{
+  "name": "@x-link/module-button",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@x-link/module-core": "^0.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "yarn-lerna-demo",
+  "version": "0.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.5.1"
+  }
+}
